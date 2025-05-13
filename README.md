@@ -23,6 +23,10 @@ exemple de hiérarchie de titre:
 ## 📝 2. Description
 Expliquez en quelques phrases ce que fait votre projet, son but, à qui il s'adresse.
 ![f589279012568420e6d0ac1850732da2](https://github.com/user-attachments/assets/5ec3a5dc-c585-41ff-90f0-3845d270a222)
+![12e3ffba21e8456a2ce0724396fb2597](https://github.com/user-attachments/assets/7af286de-7670-44db-bf68-9c8af84ddbcb)
+
+## 🧭 3. Table des matières (facultatif mais recommandé)
+Très utile pour les longs README. Utilisez des liens ancrés :
 
 
 
@@ -33,15 +37,17 @@ Expliquez en quelques phrases ce que fait votre projet, son but, à qui il s'adr
 
 
 
+## 📚 Table des matières
 
+- [Description](#-description)
+- [Technologies](#-technologies)
+- [Installation](#-installation)
+- [Utilisation](#-utilisation)
+- [Démo](#-démonstration)
+- [Contributions](#-contributions)
+- [Auteur](#-auteur)
+- [Licence](#-licence)
 
-
-## ✨ Description
-
-Ce projet est une application web permettant de gérer des tâches quotidiennes. Elle offre une interface simple, rapide et responsive.
-
-- 🛠️ Stack : HTML, CSS, JavaScript
-- 🎯 Objectif : Apprentissage de la manipulation du DOM
 
 
 
