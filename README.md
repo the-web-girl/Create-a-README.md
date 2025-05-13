@@ -20,6 +20,28 @@ Classiquement, un README.md contient :
 
 
 
+
+
+Voici un exemple complet de fichier README.md pour un projet fictif appelé TaskManager, une application en ligne de gestion de tâches. Il respecte les bonnes pratiques et utilise la syntaxe Markdown de manière technique et lisible.
+
+![3805474602ead67dbf01d284c079f36e](https://github.com/user-attachments/assets/dc6799c2-6557-4bb7-b8a4-4f62953352d8)
+L’application sera accessible à l’adresse http://localhost:3000.
+
+## 🧪 Tests
+![7258383ae0b629a5ba5fb779b0d87885](https://github.com/user-attachments/assets/1254398c-6017-4538-a137-46abfa23a68a)
+
+## 🗺️ Roadmap
+- [x] Authentification via JWT
+- [x] Gestion des permissions par rôle
+- [ ] Intégration d’un calendrier partagé
+- [ ] Application mobile (React Native)
+
+
+
+
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
