@@ -17,7 +17,7 @@ Utilisez un titre clair et visible avec # :
 ![2446131cd65700773149c7575cad4e4e](https://github.com/user-attachments/assets/f314016c-24f9-4f40-bf28-e2ad76f7c664)
 
 exemple de hiérarchie de titre:
-![d8c4787579999b49a0602349a57127dd](https://github.com/user-attachments/assets/c48be3f1-9468-40d4-a229-269e0d4780c9)
+![5a9aa2acaf4269a5cfe206786a851c12](https://github.com/user-attachments/assets/be0bed80-857c-41b8-a5c3-00e8b9f37c21)
 ![7d0539ac882d288224ee991f64176875](https://github.com/user-attachments/assets/1bed6948-2d3c-4574-9100-d0eb047d1249)
 
 
