@@ -4,10 +4,15 @@
 
 Pour bien comprendre son utilité, commençons par définir ce qu’est un fichier README.
 
-Sur GitHub, lorsqu’on consulte un projet, un encart situé sous la liste des fichiers affiche souvent du texte, des images ou encore des liens : il s’agit du contenu du fichier README.md.
+Le fichier README.md est un composant central dans la structure d’un projet versionné, en particulier sur des plateformes comme GitHub. Il sert de point d’entrée pour toute personne consultant le dépôt, en fournissant des informations essentielles sur le projet.
 
-Ce fichier joue un rôle central dans la documentation du projet. Il regroupe généralement des informations essentielles telles que les instructions d’installation, les étapes d’utilisation, la feuille de route (roadmap), la licence, et d'autres détails utiles.
+Ce fichier est rédigé en Markdown (.md), un langage de balisage léger permettant de structurer le contenu (titres, listes, liens, blocs de code, etc.) de manière lisible tout en étant facile à écrire. GitHub interprète automatiquement le Markdown pour en afficher un rendu HTML formaté dans l’interface du dépôt.
 
-Le nom "README" vient de l’expression anglaise read me ("lis-moi"), et l’extension .md fait référence à Markdown, un langage de balisage léger utilisé pour mettre en forme le texte (titres, listes, liens, etc.).
+Classiquement, un README.md contient :
 
-Le  README.md est un fichier de documentation rédigé en Markdown, interprété par GitHub pour produire un rendu structuré et lisible, un peu à la manière du HTML.
+- une description du projet,
+- les instructions d’installation et de configuration,
+- des exemples d’utilisation,
+- une roadmap (évolution prévue),
+- des informations sur la licence,
+- les contributeurs, etc.
