@@ -37,10 +37,27 @@ Listez les frameworks, bibliothèques, outils…
 
 ## 🛠️ 5. Installation
 Donnez des instructions claires, étape par étape. Utilisez les blocs de code avec ``` pour les commandes.
+1. Clonez le dépot :
 ![f7679fbc4ee152b10f7543f9b60d890b](https://github.com/user-attachments/assets/ad5d255d-ca4b-4070-a723-d9324fc5dc3d)
 
 2. Allez dans le dossier du projet :
-2. 
+![6347dda64b9451c0c3ebdd7a0f5771f5](https://github.com/user-attachments/assets/c8c15c3a-ffe0-4a97-81b1-eb9fdf0b85da)
+
+3. Installez les dépendances :
+![95caeeaf65104b124fe5fd4681e3d2a8](https://github.com/user-attachments/assets/646e1665-7d92-4202-bc7e-e98e3f205591)
+
+4. Lancez le projet :
+![352d2993226cb50a63ac18acc85bc4d1](https://github.com/user-attachments/assets/244ba0f9-9482-4513-8d39-e4dd0d958607)
+![319c649ddb2664c20232452f819df105](https://github.com/user-attachments/assets/0a42ba47-64cd-47d2-953c-4a3c4c6e6c22)
+
+## 🎬 7. Démonstration
+Ajoutez une image, une vidéo, ou même un GIF.
+![445be5bd0ebe327e683fb290b7106b89](https://github.com/user-attachments/assets/2cd59251-d9ac-445c-9797-d9cf028ad676)
+
+
+
+
+
 
 
 
