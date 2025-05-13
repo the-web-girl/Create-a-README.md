@@ -27,6 +27,12 @@ Expliquez en quelques phrases ce que fait votre projet, son but, à qui il s'adr
 
 ## 🧭 3. Table des matières (facultatif mais recommandé)
 Très utile pour les longs README. Utilisez des liens ancrés :
+![7fdc6bcc9a7f1ca822c7c0ce9717e50a](https://github.com/user-attachments/assets/5000bd6d-16bd-41e0-8204-874f06026a1d)
+![ec7af33b4459a09a1e6f9eec67c58359](https://github.com/user-attachments/assets/2dc09880-35e6-4db2-abc5-780936d63924)
+
+## ⚙️ 4. Dépendances / Technologies utilisées
+Listez les frameworks, bibliothèques, outils…
+![9fe2dec007aa3dfec03474ad2f94552b](https://github.com/user-attachments/assets/8a56380a-45e6-446f-a644-decc8771a355)
 
 
 
@@ -35,18 +41,13 @@ Très utile pour les longs README. Utilisez des liens ancrés :
 
 
 
+## 🧪 Technologies
 
+Ce projet utilise :
 
-## 📚 Table des matières
-
-- [Description](#-description)
-- [Technologies](#-technologies)
-- [Installation](#-installation)
-- [Utilisation](#-utilisation)
-- [Démo](#-démonstration)
-- [Contributions](#-contributions)
-- [Auteur](#-auteur)
-- [Licence](#-licence)
+- ⚛️ **React** – pour la création d’interfaces dynamiques
+- 🎨 **TailwindCSS** – pour le style rapide et responsive
+- 🔧 **Vite** – pour un build rapide
 
 
 
