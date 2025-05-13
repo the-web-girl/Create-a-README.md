@@ -20,16 +20,29 @@ exemple de hiérarchie de titre:
 ![5a9aa2acaf4269a5cfe206786a851c12](https://github.com/user-attachments/assets/be0bed80-857c-41b8-a5c3-00e8b9f37c21)
 ![7d0539ac882d288224ee991f64176875](https://github.com/user-attachments/assets/1bed6948-2d3c-4574-9100-d0eb047d1249)
 
+## 📝 2. Description
+Expliquez en quelques phrases ce que fait votre projet, son but, à qui il s'adresse.
+![f589279012568420e6d0ac1850732da2](https://github.com/user-attachments/assets/5ec3a5dc-c585-41ff-90f0-3845d270a222)
 
 
 
 
-# Mon titre n1
-## Mon titre n2
-### Mon titre n3
-#### Mon titre n4
-##### Mon titre n5
-###### Mon titre n6
+
+
+
+
+
+
+
+
+
+## ✨ Description
+
+Ce projet est une application web permettant de gérer des tâches quotidiennes. Elle offre une interface simple, rapide et responsive.
+
+- 🛠️ Stack : HTML, CSS, JavaScript
+- 🎯 Objectif : Apprentissage de la manipulation du DOM
+
 
 
 
