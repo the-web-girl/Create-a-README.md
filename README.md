@@ -16,3 +16,10 @@ Classiquement, un README.md contient :
 - une roadmap (évolution prévue),
 - des informations sur la licence,
 - les contributeurs, etc.
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
