@@ -33,10 +33,14 @@ Très utile pour les longs README. Utilisez des liens ancrés :
 ## ⚙️ 4. Dépendances / Technologies utilisées
 Listez les frameworks, bibliothèques, outils…
 ![9fe2dec007aa3dfec03474ad2f94552b](https://github.com/user-attachments/assets/8a56380a-45e6-446f-a644-decc8771a355)
+![7fc096e5f97142d3fecfc1eccc12090a](https://github.com/user-attachments/assets/12f8333e-83d0-4283-97ba-7c03f57afea1)
 
+## 🛠️ 5. Installation
+Donnez des instructions claires, étape par étape. Utilisez les blocs de code avec ``` pour les commandes.
+![f7679fbc4ee152b10f7543f9b60d890b](https://github.com/user-attachments/assets/ad5d255d-ca4b-4070-a723-d9324fc5dc3d)
 
-
-
+2. Allez dans le dossier du projet :
+2. 
 
 
 
