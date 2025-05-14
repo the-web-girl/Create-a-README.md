@@ -1,6 +1,6 @@
-# 📘 Guide Complet : Création d’un README.md Professionnel en Markdown
+# 📘 Créer d’un README.md Professionnel en Markdown sur GitHub – Guide Complet pour Débutants
 
-Le fichier README.md est le premier point de contact entre votre projet et les développeurs, utilisateurs ou recruteurs. Il sert de documentation d'accueil pour expliquer votre projet, comment l'utiliser, le configurer, et contribuer.
+Le fichier README.md est un élément essentiel de tout projet hébergé sur GitHub (ou toute autre plateforme Git), il est le premier point de contact entre votre projet et les développeurs, utilisateurs ou recruteurs. Il constitue la page d’accueil de votre dépôt, et a pour objectif d’expliquer rapidement ce que fait votre projet, comment l’utiliser, comment y contribuer et bien plus encore.
 Ce guide vous accompagne étape par étape, avec des exemples concrets et les syntaxes Markdown les plus utiles pour rendre votre README.md attractif et compréhensible, même si vous débutez.
 
 ## 🧰 Prérequis
