@@ -8,6 +8,13 @@ Ce guide vous accompagne étape par étape, avec des exemples concrets et les sy
 - Un dépôt Git (ex: GitHub, GitLab ou Bitbucket).
 - Un fichier nommé README.md à la racine de votre projet.
 
+## 🔎 Pourquoi un README est-il important ?
+Un bon fichier README permet de :
+- 📣 Présenter clairement votre projet à d’autres développeurs, entreprises, recruteurs, etc.
+- 🧭 Guider les utilisateurs dans l'installation, l'utilisation et la contribution.
+- 📚 Documenter les choix techniques, la roadmap, les dépendances, etc.
+` ⚠️ Sans README, même un excellent projet peut passer inaperçu.`
+
 ## 📑 Structure recommandée d’un README.md
 Voici les sections typiques à inclure dans un bon README.md :
 ![5754fd3c2997ab42184372225a46a95f](https://github.com/user-attachments/assets/da3025df-8bb4-4d79-926e-21e8f73c2983)
