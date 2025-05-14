@@ -13,6 +13,7 @@ Un bon fichier README permet de :
 - 📣 Présenter clairement votre projet à d’autres développeurs, entreprises, recruteurs, etc.
 - 🧭 Guider les utilisateurs dans l'installation, l'utilisation et la contribution.
 - 📚 Documenter les choix techniques, la roadmap, les dépendances, etc.
+
 ` ⚠️ Sans README, même un excellent projet peut passer inaperçu.`
 
 ## 📑 Structure recommandée d’un README.md
